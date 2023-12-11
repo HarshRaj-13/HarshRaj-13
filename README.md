@@ -13,7 +13,6 @@
 - 📫 How to reach me **harshrajssm130102@gmail.com**
 
 - ⚡ Fun fact **: Coffee boosts code quality for programmers, backed by science's findings!**
-https://www.hackerrank.com/profile/harshrajssm13
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshraj130102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshraj130102" height="30" width="40" /></a>
