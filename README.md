@@ -1,7 +1,7 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">A Driven Frontend-Developer from India</h3>
-<img align="right" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" alt="CODING" width="400">
+<img align="right" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" alt="CODING" width="400"style="border-radius: 15%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshraj-13&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj-13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshraj130102" target="blank"><img src="https://img.shields.io/twitter/follow/harshraj130102?logo=twitter&style=for-the-badge" alt="harshraj130102" /></a> </p>
