@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Automated Door Lock System](https://github.com/HarshRaj-13/PyGuard-/blob/main/README.md)
 
-- 🌱 I’m currently learning **Next.js,MySQL**
+- 🌱 I’m currently learning **Next.js , MySQL**
 
-- 📫 How to reach me **harshrajssm130102@gmail.com**
+- 📫 Reach me: **harshrajssm130102@gmail.com**
 
 - ⚡ Fun fact **: Coffee boosts code quality for programmers, backed by science's findings!**
 <h3 align="left">Connect with me:</h3>
