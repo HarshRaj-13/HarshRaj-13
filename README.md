@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Automated Door Lock System](https://github.com/HarshRaj-13/PyGuard-/blob/main/README.md)
 
-- 🌱 I’m currently learning **React,MySQL**
+- 🌱 I’m currently learning **Next.js,MySQL**
 
 - 📫 How to reach me **harshrajssm130102@gmail.com**
 
